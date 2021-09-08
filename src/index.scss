@@ -5,6 +5,154 @@ html {
   height: 100%;
 }
 body {
-  margin: 0;
+  margin: 0rem;
   min-height: 100%;
+  background-color: whitesmoke;
+}
+
+ol,
+ul {
+  list-style: none;
+  padding: 10px 5px 0px 15px;
+  background-color: white;
+  margin: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  margin-bottom: 1.25rem;
+  border-bottom: 0.5px solid gray;
+  position: sticky;
+  top: 0;
+  padding-right: 0rem;
+  opacity: 0.8;
+}
+header ul {
+  display: flex;
+  padding: 0.5rem;
+  color: black;
+  font-size: 13.5px;
+  padding-right: 0rem;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  padding-top: 1rem;
+}
+.twitgit {
+  margin-top: 1.5rem;
+  font-size: 14px;
+  text-align: right;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+}
+
+main article {
+  display: flex;
+  padding: 1rem;
+  flex-wrap: wrap;
+  padding-top: 1.5rem;
+}
+
+main article ul {
+  padding: 1rem 0 0 0;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+}
+
+nav a:link,
+nav a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.octo {
+  color: black;
+  font-weight: bold;
+  padding: 0rem;
+  font-size: 15px;
+  margin: 0rem;
+}
+
+li a {
+  color: black;
+  text-decoration: none;
+  padding: 5px 7px 5px 7px;
+  margin-left: 0.35rem;
+}
+.octo:hover {
+  text-decoration: underline;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+li a:hover {
+  text-decoration: underline;
+}
+section article a {
+  border-radius: 0.75rem;
+  background-color: white;
+  border: 0.65px solid lightgray;
+}
+section article a img {
+  border-radius: 0.75rem;
+  background-color: white;
+}
+article a {
+  justify-content: space-between;
+  background-color: white;
+}
+
+article li {
+  background-color: whitesmoke;
+  flex-wrap: wrap;
+  padding: 0.25;
+  text-align: center;
+}
+section article {
+  display: flex;
+  flex-direction: column;
+}
+section article ul li a {
+  background-color: whitesmoke;
+  padding: 0rem;
+  border: 0px solid whitesmoke;
+}
+
+article strong:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+footer {
+  padding: 15px 20px 30px 25px;
+  color: gray;
+  font-size: 0.85rem;
+  border-top: 0.5px solid lightgray;
+  margin-top: 4rem;
+}
+@media all and (max-width: 375px) {
+  header {
+    color: violet;
+  }
+
+  header > ul {
+    padding-right: 4rem;
+  }
+
+  header .github {
+    display: none;
+  }
 }
