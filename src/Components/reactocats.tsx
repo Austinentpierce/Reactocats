@@ -8,9 +8,9 @@ type ReactocatsProps = {
 }
 export function Reactocat(props: ReactocatsProps) {
   return (
-    <li>
+    <article>
       <a href={props.image}></a>
       <strong>{props.name}</strong>
-    </li>
+    </article>
   )
 }

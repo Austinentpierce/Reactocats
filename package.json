@@ -2,7 +2,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc && eslint --ext .tsx,.ts . && vite build",
     "serve": "vite preview",
     "start": "vite",
     "predeploy": "npm run build",
