@@ -48,6 +48,31 @@ export function App() {
           </li>
         </ul>
       </header>
+      <main>
+        <section>
+          <Reactocat
+            image="https://octodex.github.com//images/Terracottocat_Single.png"
+            name="Terracottocat"
+            number={149}
+            creator="https://github.com/chubbmo.png"
+          />
+          <Reactocat 
+          image=
+          name= 
+          number=
+          creator=   />
+          <Reactocat />
+          <Reactocat />
+          <Reactocat />
+          <Reactocat />
+          <Reactocat />
+          <Reactocat />
+          <Reactocat />
+          <Reactocat />
+          <Reactocat />
+          <Reactocat />
+        </section>
+      </main>
     </body>
   )
 }
