@@ -20,8 +20,13 @@ export function Reactocat(props: ReactocatsProps) {
           </a>
         </li>
         <li>
-          <a href="https://github.com/chubbmo">
-            <img src={props.creator} width="24px" height="24px" />
+          <a href={props.creator}>
+            <img
+              src={props.creator}
+              width="24px"
+              height="24px"
+              alt={props.creator}
+            />
           </a>
         </li>
       </ul>

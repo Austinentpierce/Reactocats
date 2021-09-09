@@ -60,38 +60,40 @@ export function App() {
           image="https://octodex.github.com//images/Octogatos.png"
           name= "Octogatos"
           number={148}
-          creator="https://github.com/cameronfoxly.png"  />
+          creator="https://github.com/cameronfoxly.png"  
+        
+          />
           <Reactocat
-          image=
-          name=
-          number={}
-          creator= />
+          image="https://octodex.github.com//images/Sentrytocat_octodex.jpg"
+          name="Sentrytocat"
+          number={143}
+          creator="https://github.com/cameronmcefee.png" />
           <Reactocat
-          image=
-          name=
-          number={}
-          creator=  />
+          image="https://octodex.github.com//images/boxertocat_octodex.jpg"
+          name="Boxertocat"
+          number={141}
+          creator="https://octodex.github.com//boxertocat/"/>
           <Reactocat 
-          image=
-          name=
-          number={}
-          creator= />
+          image="https://octodex.github.com//images/surftocat.png"
+          name="Surftocat"
+          number={140}
+          creator="https://github.com/jeejkang.png" />
           <Reactocat 
-          image=
-          name=
-          number={}
-          creator= 
+          image="https://octodex.github.com//images/scubatocat.png"
+          name="Scubatocat"
+          number={138}
+          creator="https://github.com/cameronfoxly.png"
           />
           <Reactocat 
-          image=
-          name=
-          number={}
-          creator= />
+          image="https://octodex.github.com//images/dinotocat.png"
+          name="Dinotocat"
+          number={130}
+          creator="https://github.com/kimestoesta.png" />
           <Reactocat 
-          image=
-          name=
-          number={}
-          creator= />
+          image="https://octodex.github.com//images/spidertocat.png"
+          name="Spidertocat"
+          number={87}
+          creator="https://github.com/jeejkang.png" />
           <Reactocat 
           image=
           name=
