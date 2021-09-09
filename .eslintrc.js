@@ -22,12 +22,12 @@ module.exports = {
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:react-hooks/recommended',
-    'plugin:jsx-a11y/recommended',
-    'plugin:prettier/recommended', // Make sure this is always the last element in the array.
+    // Uncomment this next line if you want to check your code for accessibility issues!
+    // 'plugin:jsx-a11y/recommended',
+    'prettier', // Make sure this is always the last element in the array.
   ],
-  plugins: ['prettier'],
+  plugins: [],
   rules: {
-    'prettier/prettier': ['error', {}, {}],
     'react/react-in-jsx-scope': 'off',
     'jsx-a11y/accessible-emoji': 'off',
     'react/prop-types': 'off',

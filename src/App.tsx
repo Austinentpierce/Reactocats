@@ -57,20 +57,61 @@ export function App() {
             creator="https://github.com/chubbmo.png"
           />
           <Reactocat 
+          image="https://octodex.github.com//images/Octogatos.png"
+          name= "Octogatos"
+          number={148}
+          creator="https://github.com/cameronfoxly.png"  />
+          <Reactocat
           image=
-          name= 
-          number=
-          creator=   />
-          <Reactocat />
-          <Reactocat />
-          <Reactocat />
-          <Reactocat />
-          <Reactocat />
-          <Reactocat />
-          <Reactocat />
-          <Reactocat />
-          <Reactocat />
-          <Reactocat />
+          name=
+          number={}
+          creator= />
+          <Reactocat
+          image=
+          name=
+          number={}
+          creator=  />
+          <Reactocat 
+          image=
+          name=
+          number={}
+          creator= />
+          <Reactocat 
+          image=
+          name=
+          number={}
+          creator= 
+          />
+          <Reactocat 
+          image=
+          name=
+          number={}
+          creator= />
+          <Reactocat 
+          image=
+          name=
+          number={}
+          creator= />
+          <Reactocat 
+          image=
+          name=
+          number={}
+          creator= />
+          <Reactocat 
+          image=
+          name=
+          number={}
+          creator= />
+          <Reactocat 
+          image=
+          name=
+          number={}
+          creator= />
+          <Reactocat 
+          image=
+          name=
+          number={}
+          creator= />
         </section>
       </main>
     </body>
