@@ -56,64 +56,72 @@ export function App() {
             number={149}
             creator="https://github.com/chubbmo.png"
           />
-          <Reactocat 
-          image="https://octodex.github.com//images/Octogatos.png"
-          name= "Octogatos"
-          number={148}
-          creator="https://github.com/cameronfoxly.png"  
-        
+          <Reactocat
+            image="https://octodex.github.com//images/Octogatos.png"
+            name="Octogatos"
+            number={148}
+            creator="https://github.com/cameronfoxly.png"
           />
           <Reactocat
-          image="https://octodex.github.com//images/Sentrytocat_octodex.jpg"
-          name="Sentrytocat"
-          number={143}
-          creator="https://github.com/cameronmcefee.png" />
-          <Reactocat
-          image="https://octodex.github.com//images/boxertocat_octodex.jpg"
-          name="Boxertocat"
-          number={141}
-          creator="https://octodex.github.com//boxertocat/"/>
-          <Reactocat 
-          image="https://octodex.github.com//images/surftocat.png"
-          name="Surftocat"
-          number={140}
-          creator="https://github.com/jeejkang.png" />
-          <Reactocat 
-          image="https://octodex.github.com//images/scubatocat.png"
-          name="Scubatocat"
-          number={138}
-          creator="https://github.com/cameronfoxly.png"
+            image="https://octodex.github.com//images/Sentrytocat_octodex.jpg"
+            name="Sentrytocat"
+            number={143}
+            creator="https://github.com/cameronmcefee.png"
           />
-          <Reactocat 
-          image="https://octodex.github.com//images/dinotocat.png"
-          name="Dinotocat"
-          number={130}
-          creator="https://github.com/kimestoesta.png" />
-          <Reactocat 
-          image="https://octodex.github.com//images/spidertocat.png"
-          name="Spidertocat"
-          number={87}
-          creator="https://github.com/jeejkang.png" />
-          <Reactocat 
-          image=
-          name=
-          number={}
-          creator= />
-          <Reactocat 
-          image=
-          name=
-          number={}
-          creator= />
-          <Reactocat 
-          image=
-          name=
-          number={}
-          creator= />
-          <Reactocat 
-          image=
-          name=
-          number={}
-          creator= />
+          <Reactocat
+            image="https://octodex.github.com//images/boxertocat_octodex.jpg"
+            name="Boxertocat"
+            number={141}
+            creator="https://octodex.github.com//boxertocat/"
+          />
+          <Reactocat
+            image="https://octodex.github.com//images/surftocat.png"
+            name="Surftocat"
+            number={140}
+            creator="https://github.com/jeejkang.png"
+          />
+          <Reactocat
+            image="https://octodex.github.com//images/scubatocat.png"
+            name="Scubatocat"
+            number={138}
+            creator="https://github.com/cameronfoxly.png"
+          />
+          <Reactocat
+            image="https://octodex.github.com//images/dinotocat.png"
+            name="Dinotocat"
+            number={130}
+            creator="https://github.com/kimestoesta.png"
+          />
+          <Reactocat
+            image="https://octodex.github.com//images/spidertocat.png"
+            name="Spidertocat"
+            number={87}
+            creator="https://github.com/jeejkang.png"
+          />
+          <Reactocat
+            image="https://octodex.github.com//images/droctocat.png"
+            name="Dr.Octocat"
+            number={88}
+            creator="https://github.com/jeejkang.png"
+          />
+          <Reactocat
+            image="https://octodex.github.com//images/deckfailcat.png"
+            name="Deckfailcat"
+            number={82}
+            creator="https://github.com/mattgraham.png"
+          />
+          <Reactocat
+            image="https://octodex.github.com//images/droidtocat.png"
+            name="Droidtocat"
+            number={78}
+            creator="https://github.com/tonyjaramillo.png"
+          />
+          <Reactocat
+            image="https://octodex.github.com//images/defunktocat.png"
+            name="Defunktocat"
+            number={65}
+            creator="https://github.com/jasoncostello.png"
+          />
         </section>
       </main>
     </body>
