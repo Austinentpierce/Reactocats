@@ -72,7 +72,7 @@ export function App() {
             image="https://octodex.github.com//images/boxertocat_octodex.jpg"
             name="Boxertocat"
             number={141}
-            creator="https://octodex.github.com//boxertocat/"
+            creator="https://github.com/rubyjazzy.png"
           />
           <Reactocat
             image="https://octodex.github.com//images/surftocat.png"
